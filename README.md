@@ -34,7 +34,7 @@ We developed a parallel model to forecast daily ticket sales using the same meth
 
 The model assumes a DatetimeIndex and a numeric target column ('sales'). It also uses time series cross-validation and produces visual forecasts to support interpretability.
 
-Why It’s Better:
+Why the Improved Redemption Model is better:
 
 •	model accuracy: SARIMA captures both long-term trends and weekly seasonality, outperforming the base model.
 
