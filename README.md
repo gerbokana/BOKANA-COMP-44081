@@ -1,7 +1,7 @@
 # BOKANA-COMP-44081
 Technical Test for Applied Scientist (Data Scientist) - Opportunity No. 44081
 
-The Data Science Team has built a simple forecasting model that uses data related to ferry tickets for the Toronto Island Park service from the City of Toronto's Open Data Portal (https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/) to predict the number of redemptions (i.e., people getting on the ferry) at any given time.
+Manitoba's Data Science Program has built a simple forecasting model that uses data related to ferry tickets for the Toronto Island Park service from the City of Toronto's Open Data Portal (https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/) to predict the number of redemptions (i.e., people getting on the ferry) at any given time.
 
 However, the model does not perform well, and it does not have any way to account for uncertainty in the forecast.
 
