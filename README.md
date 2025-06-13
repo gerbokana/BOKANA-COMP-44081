@@ -42,7 +42,7 @@ Why It’s Better:
 
 •	modular design: both models are implemented in reusable classes, easily integrated into existing analytics workflows.
 
-•	business relevance: By forecasting both redemptions and sales, stakeholders can better align operations with customer behavior - improving staffing, supply planning, and promotional timing related to the Toronto Island ferry.
+•	business relevance: by forecasting both redemptions and sales, stakeholders can better align operations with customer behavior - improving staffing, supply planning, and promotional timing related to the Toronto Island ferry.
 
 These improvements provide a solid foundation for accurate, data-driven forecasting of customer actions related to the Toronto Island ferry.
 
