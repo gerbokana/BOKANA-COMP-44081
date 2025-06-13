@@ -5,7 +5,7 @@ The Data Science Team has built a simple forecasting model that uses data relate
 
 However, the model does not perform well, and it does not have any way to account for uncertainty in the forecast.
 
-This submission followed the instructions at the link below to complete the technical test: 
+This submission followed the instructions at the link that follows to complete the technical test: 
 https://github.com/govmb-ds/COMP-44081 
 
 Addressing the business need for accurate daily forecasting of ticket redemptions and sales, we developed two modular forecasting systems: one for redemptions and one for sales. Both models were implemented in Python and evaluated using time series cross-validation.
